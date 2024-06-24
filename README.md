@@ -1,5 +1,5 @@
 # pdf2pptx
-Convert a PDF file to a PPTX file.
+Convert a PDF file to a PPTX file, especially for LaTeX Beamer users.
 It was tested with Python 3.11.
 
 ## how to use
